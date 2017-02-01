@@ -68,7 +68,7 @@ In order to classify an image with more classes, this is the spot. This classifi
 * [AlexNet](http://pjreddie.com/darknet/imagenet/#alexnet)
 cfg: [alexnet.cfg](https://github.com/mrzl/ofxDarknet/blob/master/example-imagenet/bin/data/cfg/alexnet.cfg) weights: [alexnet.weights](http://pjreddie.com/media/files/alexnet.weights)
 * [Darknet Reference](http://pjreddie.com/darknet/imagenet/#reference)
-cfg: [darknet.cfg](https://github.com/mrzl/ofxDarknet/blob/master/example-imagenet/bin/data/cfg/darknet.cfg) weights: [darknet.cfg](http://pjreddie.com/media/files/darknet.weights)
+cfg: [darknet.cfg](https://github.com/mrzl/ofxDarknet/blob/master/example-imagenet/bin/data/cfg/darknet.cfg) weights: [darknet.weights](http://pjreddie.com/media/files/darknet.weights)
 * [VGG-16](http://pjreddie.com/darknet/imagenet/#vgg)
 cfg: [vgg-16.cfg](https://github.com/mrzl/ofxDarknet/blob/master/example-imagenet/bin/data/cfg/vgg-16.cfg) weights: [vgg-16.weights](http://pjreddie.com/media/files/vgg-16.weights)
 * [Extraction](http://pjreddie.com/darknet/imagenet/#extraction)
@@ -131,7 +131,7 @@ Darknet pre-trained weights files:
 ofxDarknet custom pre-trained weight files (each trained for 20h on NVidia TitanX):
 * [Anonymous - Hypersphere](http://mrzl.net/ofxdarknet/anonymous-hypersphere.weights)
 Hypersphere, written by Anonymous with the help of the 4chan board /lit/ (of The Legacy of Totalitarianism in a Tundra fame) is an epic tale spanning over 700 pages.
-A postmodern collaborative writing effort containing Slavoj éiûek erotica, top secret Donald Trump emails, poetry, repair instructions for future cars, a history of bottles in the Ottoman empire; actually, it contains everything since it takes place in the Hypersphere, and the Hypersphere is a big place; really big in fact.
+A postmodern collaborative writing effort containing Slavoj ≈Ωi≈æek erotica, top secret Donald Trump emails, poetry, repair instructions for future cars, a history of bottles in the Ottoman empire; actually, it contains everything since it takes place in the Hypersphere, and the Hypersphere is a big place; really big in fact.
 * [Books on art history & aesthetics](http://mrzl.net/ofxdarknet/arts_arthistory_aesthetics.weights)
 * [Books on digital culture](http://mrzl.net/ofxdarknet/digital_and_internet_theory.weights)
 
